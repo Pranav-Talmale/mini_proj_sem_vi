@@ -1,4 +1,4 @@
-package com.docgene.ui.theme
+package com.docgene.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

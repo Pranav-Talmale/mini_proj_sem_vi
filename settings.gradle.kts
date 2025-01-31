@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DocGene"
 include(":app")
+include(":utilities")

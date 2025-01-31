@@ -1,4 +1,4 @@
-package com.docgene.ui.theme
+package com.docgene.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
